@@ -1,0 +1,19 @@
+.products_wrapper {
+    padding: 20px;
+}
+
+.products_filter {
+    padding: 5px;
+}
+
+.products_filter_button {
+    padding: 5px;
+    cursor: pointer;
+}
+
+.products {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding: 20px;
+}
